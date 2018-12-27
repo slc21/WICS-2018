@@ -4,3 +4,8 @@
 
 
 ### Your Code Here ###
+
+puts "What's your fav num?"
+num = gets.chomp
+puts "This better"
+puts number + 1
